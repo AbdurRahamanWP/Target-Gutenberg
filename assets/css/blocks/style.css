@@ -1,0 +1,15 @@
+body{
+    background-color: blue;
+}
+a{
+    color: aquamarine;
+}
+
+.Header_custom{
+    background-color: rgb(148, 33, 255);
+}
+
+.Header_custom .wp-block-site-title{
+    background-color: rgb(148, 33, 255) !important;
+	color: red !important;
+}

@@ -1,0 +1,19 @@
+
+.Header_custom{
+    background-color: rgb(51, 255, 0);
+}
+
+.Header_custom .wp-block-site-title{
+    background-color: rgb(148, 33, 255);
+	color: red !important;
+}
+
+.header_menu{
+    background-color: rgb(236, 18, 127);
+}
+
+.wp-block-post-title a{
+    color: #FFFFFF;
+    font-size: 42px;
+    font-weight: 700;
+}
